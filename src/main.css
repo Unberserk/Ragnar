@@ -31,9 +31,9 @@ font-family: "Poppins", sans-serif !important;
 --height-medium: 500px;
 --height-large: 610px;
 --light: #b4b1b1;
---theme: rgb(155, 0, 0);
---random-colors: #ff5733, #33ff57, #5733ff, #ff33a8, #33a8ff, #a833ff, #ff33ff,
-#33ffc2, #a8ff33, #ffc233;
+--theme: #4169E1; /* Royal blue /
+--random-colors: #4169E1, #4169E1, #4169E1, #4169E1, #4169E1, #4169E1, #4169E1,
+#4169E1, #4169E1, #4169E1;
 }
 .d-flex {
 display: flex;
@@ -66,7 +66,7 @@ overflow-x: hidden;
 font-family: "Poppins", sans-serif;
 color: var(--theme);
 }
-/* width */
+/ width */
 ::-webkit-scrollbar {
 width: 12px;
 }
